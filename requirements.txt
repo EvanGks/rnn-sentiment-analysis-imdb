@@ -1,0 +1,6 @@
+numpy>=1.18.5          # For numerical computations
+matplotlib>=3.3.0      # For plotting and visualization
+tensorflow>=2.4.0      # Includes Keras (deep learning framework)
+scikit-learn>=0.24.2   # For dataset splitting and performance metrics
+jupyter                # To run the notebook environment
+seaborn>=0.11.0        # For statistical data visualization
